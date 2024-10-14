@@ -34,4 +34,9 @@ This is where we include some basic lines of codes or queries used during the an
 SELECT * FROM TABLE 1
 WHERE CONDITION = TRUE
 ~~~
+---
+### Data Visuals
+*Table 1*
+1. ![git](https://github.com/user-attachments/assets/33c8a483-cb88-474f-9930-511cc0f20dc9)
+
 
