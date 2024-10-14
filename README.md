@@ -78,11 +78,13 @@ WHERE CONDITION = TRUE
 
 
 9. **Table 9** (MODEL X REVENUE)
+
    ![git8](https://github.com/user-attachments/assets/1818c9ad-44a3-44d5-8442-3771b5f9fff8)
 
 
 10. **Table 10** (STORE X UNITS SOLD)
-   ![git9](https://github.com/user-attachments/assets/91488dd6-b7d3-4249-bdfb-ae009a56fa06)
+
+![git9](https://github.com/user-attachments/assets/91488dd6-b7d3-4249-bdfb-ae009a56fa06)
 
 
 11. **Table 11** (MODEL X UNITS SOLD)
