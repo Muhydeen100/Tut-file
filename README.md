@@ -1,5 +1,15 @@
 # Tutorial Inventory
 
+## Table of Outline
+## [Project Overview](project-overview)
+## [Data Sources](data-sources)
+## [Tools Used](tools-used)
+## [Data Cleaning and preparation](data-cleaning-and-preparation)
+## [Exploratory Data Analysis](exploratory-dat-analysis)
+## [Data Analysis](data-analysis)
+## [Data Visuals](data-visuals)
+
+---
 ### Project Overview
 This project aims to generate insight into the sales performance of an organization over the last year. By analysing various aspect of the sales from the data recieved 
 we seek to gather insights to come to a difinitive conclusions from our data to know the best performance from our data.
@@ -90,3 +100,9 @@ WHERE CONDITION = TRUE
 11. **Table 11** (MODEL X UNITS SOLD)
 
   ![git10](https://github.com/user-attachments/assets/bd47f02d-d6f8-41a1-8923-9970e69ef18c)
+
+---
+### Inference/Insight
+  1. North-East regions generated more sales than other regions
+  2. In line of Business "printer sale" is significantly low compared to the rest
+  3. Model 3002P generated more sales
