@@ -36,8 +36,8 @@ WHERE CONDITION = TRUE
 ~~~
 ---
 ### Data Visuals
-*Table 1*
-1.
+1. **Table 1**
+
   ![git](https://github.com/user-attachments/assets/33c8a483-cb88-474f-9930-511cc0f20dc9)
 
 
