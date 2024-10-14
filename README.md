@@ -9,7 +9,7 @@ The primary source of Data used is the sales file from the said organization
 
 ### Tools Used
 
-- Ms Excel [Dowmload here](https://www.microsfot.com)
+- Ms Excel [Dowmload here](https://www.microsoft.com)
 - Microsoft Power Bi
 - Google Sheet
 
