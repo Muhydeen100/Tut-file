@@ -10,9 +10,12 @@ The primary source of Data used is the sales file from the said organization
 ### Tools Used
 
 - Ms Excel
+![git](https://github.com/user-attachments/assets/cec2f336-6c9f-41e2-a421-390ff14010ef)
 
   [Download here](https://www.microsoft.com)
 - Microsoft Power Bi
 - Google Sheet
 - hhbn
+
+- 
 
