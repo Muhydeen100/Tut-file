@@ -36,44 +36,55 @@ WHERE CONDITION = TRUE
 ~~~
 ---
 ### Data Visuals
+
 1. **Table 1** (REGION X REVENUE)
 
   ![git](https://github.com/user-attachments/assets/33c8a483-cb88-474f-9930-511cc0f20dc9)
+
 
 2. **Table 2** (REGION X UNIT SOLD)
 
   ![git1](https://github.com/user-attachments/assets/31f9937e-1277-4ac1-bd6d-f3f63238ffb9)
 
+
 3. **Table 3** (LINE OF BUSINESS X REVENUE)
 
   ![git2](https://github.com/user-attachments/assets/c193dcf5-1baf-4ade-8182-295c3ea6f651)
   
+
 4. **Table 4** (LINE OF BUSINESS X UNITS SOLD)
 
   ![git3](https://github.com/user-attachments/assets/4f6e5e85-5d35-435d-a85e-14fa610edb45)
 
-5. **Table 5** (MARKET X SUM OF UNITS SOLD X PERCENTAGE OF UNIT SOLD)
+
+5. **Table 5** (STORE X REVENUE)
   
   ![git4](https://github.com/user-attachments/assets/e911d59b-411b-4cb5-9112-afa9f4c3b1b8)
 
-6. **Table 6** (MARKET X REVENUE X PERCENTAGE OF REVENUE)
+
+6. **Table 6** (MARKET X SUM OF UNITS SOLD X PERCENTAGE OF UNIT SOLD)
 
    ![git5](https://github.com/user-attachments/assets/75e0afa9-b191-4a66-bf5b-644810c76a00)
 
-7. **Table 7** (SALES CATEGORY X REGION)
+
+7. **Table 7** (MARKET X REVENUE X % OF REVENUE)
 
   ![git6](https://github.com/user-attachments/assets/bca72501-c87d-4197-9161-bfe7e0f77654)
  
-8. **Table 8** (MODEL X REVENUE)
+
+8. **Table 8** (SALES CATEGORY X REGION)
 
    ![git7](https://github.com/user-attachments/assets/4ecfeefd-cca5-4e96-9914-f70ad4294769)
 
-9. **Table 9** (STORE X UNITS SOLD)
+
+9. **Table 9** (MODEL X REVENUE)
    ![git8](https://github.com/user-attachments/assets/1818c9ad-44a3-44d5-8442-3771b5f9fff8)
 
-10. **Table 10** (MODEL X UNITS SOLD)
+
+10. **Table 10** (STORE X UNITS SOLD)
    ![git9](https://github.com/user-attachments/assets/91488dd6-b7d3-4249-bdfb-ae009a56fa06)
 
 
+11. **Table 11** (MODEL X UNITS SOLD)
 
-![git10](https://github.com/user-attachments/assets/bd47f02d-d6f8-41a1-8923-9970e69ef18c)
+  ![git10](https://github.com/user-attachments/assets/bd47f02d-d6f8-41a1-8923-9970e69ef18c)
